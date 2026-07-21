@@ -1,6 +1,6 @@
 # Finance × Python Portfolio
 
-Hi, I'm Ebere — a Chartered Accountant with ~5 years of experience across external audit, corporate finance, treasury management, and financial modeling. I also hold CFA Level I and FMVA certifications. This repo collects the Python projects I've built to bridge traditional finance work with data-driven, automated tooling.
+Hi, I'm Ebere — a Chartered Accountant with experience across external audit, corporate finance, treasury management, and financial modeling. I also hold an FMVA certification and currently undergoing the CFA program. This repo collects the Python projects I've built to bridge traditional finance work with data-driven, automated tooling.
 
 I most recently worked as a Senior Accountant at a mini-grid energy company, and I'm currently building out this portfolio while pursuing new roles in finance/analytics and freelance AI evaluation work in the finance domain.
 
