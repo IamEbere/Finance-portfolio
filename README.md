@@ -4,15 +4,17 @@ Hi, I'm Ebere — a Chartered Accountant with experience across external audit, 
 
 I most recently worked as a Senior Accountant at a mini-grid energy company, and I'm currently building out this portfolio while pursuing new roles in finance/analytics and freelance AI evaluation work in the finance domain.
 
-## 🧰 Tech Stack
+## Financial Modelling
 
-- **Languages:** Python
-- **Core libraries:** pandas, numpy, openpyxl
-- **Data & markets:** yfinance
-- **Visualization:** Plotly (Express & Graph Objects), matplotlib
-- **Tools:** Jupyter, Git/GitHub
+### 1. Single year Three-Statement Model + Automated Dashboard for a Solar Mini Grid Company
+An end-to-end financial model for a solar mini-grid business, with an automated Excel dashboard featuring KPI cards and formula-linked charts. 
+https://docs.google.com/spreadsheets/d/1fSBwjP7erigL0Pfs5rO0kqtl-0qaUfJI/edit?usp=drive_link&ouid=114597950258001281316&rtpof=true&sd=true
 
-## 📂 Projects
+### 2. Financial Model for a Manufacturing Company
+A three-statement model incorporating deferred tax treatment and revolver-to-cash-flow-statement linkage.
+https://docs.google.com/spreadsheets/d/1PJtLYK-gcHVkgVuB4QUBteRKmeKaHvFv/edit?usp=drive_link&ouid=114597950258001281316&rtpof=true&sd=true
+
+## Python Projects
 
 ### 1. Financial Model Automation Pipeline
 A multi-script pipeline that generates a full three-statement model — income statement, balance sheet, cash flow statement, valuation metrics, and charts — directly from a CSV of assumptions.
@@ -23,17 +25,19 @@ Computes standard financial ratios (liquidity, profitability, leverage, efficien
 ### 3. Investment Portfolio Tracker
 Pulls live price feeds via `yfinance` to track a portfolio's performance, including Sharpe ratio analysis for risk-adjusted returns.
 
-### 4. Solar Mini-Grid Three-Statement Model + Automated Dashboard
-An end-to-end financial model for a solar mini-grid business, with an `openpyxl`-automated Excel dashboard featuring KPI cards and formula-linked charts.
-
-### 5. Blu Containers Financial Model
-A three-statement model incorporating deferred tax treatment and revolver-to-cash-flow-statement linkage.
-
-### 6. Monte Carlo Portfolio Simulation
+### 4. Monte Carlo Portfolio Simulation
 Simulates thousands of random portfolio weight combinations to optimize for Sharpe ratio, visualized with Plotly.
 
-### 7. JPM Stock Analysis
+### 5. JPM Stock Analysis
 Market data analysis and visualization using Plotly Express and Graph Objects — OHLC charts, candlesticks, and SMA overlays.
+
+## 🧰 Tech Stack
+
+- **Languages:** Python
+- **Core libraries:** pandas, numpy, openpyxl
+- **Data & markets:** yfinance
+- **Visualization:** Plotly (Express & Graph Objects), matplotlib
+- **Tools:** Jupyter, Git/GitHub
 
 ## 🎯 What This Portfolio Demonstrates
 
