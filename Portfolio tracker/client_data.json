@@ -1,0 +1,37 @@
+{
+  "name": "Ebere",
+  "date": "1/2/2021",
+  "stock_holdings": [
+    {
+      "ticker": "AAPL",
+      "shares": 30.0,
+      "price": 325.8900146484375,
+      "market_value": 9776.700439453125
+    },
+    {
+      "ticker": "META",
+      "shares": 25.0,
+      "price": 627.1699829101562,
+      "market_value": 15679.249572753906
+    }
+  ],
+  "values": {
+    "Stocks": 25455.95001220703,
+    "Treasury Bills": 0.0,
+    "Mutual Funds": 20000.0,
+    "Cash": 13000.0
+  },
+  "returns": {
+    "Stocks": 0.12,
+    "Treasury Bills": 0.23,
+    "Mutual Funds": 0.12,
+    "Cash": 0.02
+  },
+  "volatility": {
+    "Stocks": 0.1,
+    "Treasury Bills": 0.1,
+    "Mutual Funds": 0.1,
+    "Cash": 0.0
+  },
+  "risk_free_rate": 0.23
+}
