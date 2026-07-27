@@ -16,8 +16,8 @@ I'm currently building out this portfolio while pursuing new roles in finance/an
 | Project | Description | Code |
 |---|---|---|
 | Financial Model Automation Pipeline | Multi-script pipeline that generates a full three-statement model — income statement, balance sheet, cash flow statement, valuation metrics, and charts — directly from a CSV of assumptions. | [View Folder](./Financial_modelling_automation) |
-| Financial Statement Analysis Tool | Computes standard financial ratios (liquidity, profitability, leverage, efficiency) from financial statements and outputs a dashboard summarizing company performance. | [View Folder](./financial_statements_analysis) |
-| Investment Portfolio Tracker | Pulls live price feeds via `yfinance` to track a portfolio's performance, including Sharpe ratio analysis for risk-adjusted returns. | [View Folder](./portfolio_tracker) |
+| Financial Statement Analysis Tool | Computes standard financial ratios (liquidity, profitability, leverage, efficiency) from financial statements and outputs a dashboard summarizing company performance. | [View Folder](./Financial_statements_analysis) |
+| Investment Portfolio Tracker | Pulls live price feeds via `yfinance` to track a portfolio's performance, including Sharpe ratio analysis for risk-adjusted returns. | [View Folder](./Portfolio_tracker) |
 | Monte Carlo Portfolio Simulation | Simulates thousands of random portfolio weight combinations to optimize for Sharpe ratio, visualized with Plotly. | [View Folder](./monte-carlo-portfolio-simulation) |
 | JPM Stock Analysis | Market data analysis and visualization using Plotly Express and Graph Objects — OHLC charts, candlesticks, and SMA overlays. | [View Folder](./jpm-stock-analysis) |
 
