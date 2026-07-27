@@ -1,0 +1,5 @@
+        Revenue    EBITDA  Net Income  Operating Cash Flow  Revenue Growth  Gross Margin  EBIT Margin  Net Profit Margin  Current Ratio  Quick Ratio  Debt to Equity  Interest Coverage       ROA       ROE  Working Capital
+Year                                                                                                                                                                                                                        
+2023  1000000.0  200000.0    116250.0             140000.0             NaN      0.400000      0.18000            0.11625       1.944444     1.444444        0.500000          12.000000  0.129167  0.232500         170000.0
+2024  1200000.0  265000.0    169500.0             195000.0        0.200000      0.416667      0.20000            0.14125       2.000000     1.523810        0.387097          17.142857  0.161429  0.273387         210000.0
+2025  1450000.0  350000.0    231000.0             255000.0        0.208333      0.427586      0.22069            0.15931       2.083333     1.604167        0.278481          26.666667  0.189344  0.292405         260000.0
