@@ -1,0 +1,26 @@
+Assumption,Year 1,Year 2,Year 3,Year 4,Year 5
+Revenue Growth,15.00%,12.00%,10.00%,8.00%,6.00%
+Capital Expenditure ,"120,000","85,000","60,000","45,000","35,000"
+Depreciation (% of Gross PPE),8.00%,8.00%,8.00%,8.00%,8.00%
+Corporate Tax Rate,30.00%,30.00%,30.00%,30.00%,30.00%
+New Debt Raised (?'000),"150,000","50,000",-,-,-
+Interest Rate on Debt,14.00%,14.00%,13.50%,13.00%,12.50%
+Accounts Receivable Days,35,35,34,33,32
+Inventory Days,45,43,42,40,38
+Accounts Payable Days,30,30,31,32,32
+Dividend Payout Ratio,20%,25%,30%,35%,40%
+Inflation Rate,11.00%,9.50%,8.50%,7.50%,6.50%
+,,,,,
+,,,,,
+Drivers,Value,,,,
+Opening Revenue,"500,000",,,,
+Opening Gross PPE,"450,000",,,,
+Opening Debt,"200,000",,,,
+Opening Cash,"60,000",,,,
+Useful Life of Assets,12.5 years,,,,
+Depreciation Method,Straight Line,,,,
+Debt Repayment,Equal annual principal over 5 years,,,,
+Interest should be calculated using the average debt balance during the year,,,,,
+Discount rate,15%,,,,
+EBITDA margin ,25%,,,,
+Dividend = Net Income × Dividend Payout Ratio,,,,,
